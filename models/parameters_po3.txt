@@ -1,0 +1,13 @@
+expparent = /ptmp/nbudanur/KS/public/po3exp2 
+nproc = 5 
+maxepochs = 100 
+checkpoint =  
+poloss = True 
+ipo = 3 
+learnrate = 1e-05 
+normpert = 0.001 
+nhidden = 2 
+width = 128 
+ctrans = 3.6 
+parallel_arg = ctrans 
+data_path = /ptmp/nbudanur/KS/public/po3exp2/data/po_3_trajs_ctrans_3.60_normpert_0.001000.hdf5 
